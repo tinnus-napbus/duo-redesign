@@ -21,8 +21,6 @@ defined in its `_index.md` file.
 
 ## folders in sidebar
 
-### Design
-
 The left sidebar should be able to render folders as either expandable
 subdirectories or a "flat" view where the title is a header and then its
 contents are listed below at the same level (see images below). When something
