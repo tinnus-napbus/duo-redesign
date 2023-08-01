@@ -138,22 +138,6 @@
 
 ![](https://media.urbit.org/docs/userspace/hoon-school/binary-tree-fruit.png)
 
-#### content/guides/core/hoon-school/B-syntax.md
-
-![](https://media.urbit.org/docs/hoon-syntax/cell1.png)
-
-#### content/guides/core/hoon-school/B-syntax.md
-
-![](https://media.urbit.org/docs/hoon-syntax/cell2.png)
-
-#### content/guides/core/hoon-school/B-syntax.md
-
-![](https://media.urbit.org/docs/hoon-syntax/cell3.png)
-
-#### content/guides/core/hoon-school/B-syntax.md
-
-![](https://media.urbit.org/docs/hoon-syntax/cell4.png)
-
 #### content/guides/core/hoon-school/D-gates.md
 
 ![](https://lh4.googleusercontent.com/zdauTDEWvhhOkFEb6VcDEJ4SITsHOgcStf4NYFQSIVjTDPjaCqYGdin9TDCCeTG3OyMrUUdq-JtViiu_c9wuojim_mHpV6-DoTNwZzYz5_6qVVvN5fc3hEuSna2GwY15RQ=w740)
