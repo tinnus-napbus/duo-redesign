@@ -194,3 +194,21 @@ a number of diagrams need to be redesigned with a consistent style. [See
 `images.md` for the list](./images.md)
 
 ---
+
+## new icons
+
+We need the following additional icons, in a style that will fit in with the
+existing ones:
+
+- Lick vane (kernel module). Lick is a module that lets an urbit communicate
+  with processes on the host OS through a Unix socket. It's intended to be used
+  to interface with hardware, but has also uses also.
+- "Tools" icon. The tools section is for developer documentation of
+  miscellaneous urbit-related utilities, libraries, third-party apps, etc.
+- "Language" icon. The Language section contains the Hoon and Nock documentation.
+- "Manual" icon. The Manual section contains the user/operator manual,
+  documenting how to run and use an urbit ship.
+- "Courses" icon. The Courses section contains the core tutorials "Hoon
+  School", "App School", "App School II", and a forthcoming "Kernel School".
+
+---
