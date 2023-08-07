@@ -8,6 +8,12 @@ material / courses.
 
 ---
 
+## remove blog section
+
+get rid of the blog section - docs only.
+
+---
+
 ## navbar
 
 The navbar will be:
@@ -171,6 +177,18 @@ Same as the above app cards, except for groups. We just need group image, group
 name, description and shortcode copy button.
 
 ---
+
+## section cards
+
+We want to be able to use cards like in the "Core Components" section of the
+existing overview on any page.
+
+---
+
+## core curriculum cards
+
+We want to be able to use the cards in the "core curriculum" section of the
+guides overview on any page.
 
 ## last edited
 
