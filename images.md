@@ -178,3 +178,34 @@
 
 ![](https://media.urbit.org/guides/core/app-school/card-diagram.svg)
 
+#### content/guides/additional/sets.md
+
+![](https://media.urbit.org/docs/hoon-syntax/set-identity.png)
+
+#### content/guides/additional/sets.md
+
+![](https://media.urbit.org/docs/hoon-syntax/set-addition.png)
+
+#### content/guides/additional/sets.md
+
+![](https://media.urbit.org/docs/hoon-syntax/set-deletion.png)
+
+#### content/guides/additional/sets.md
+
+![](https://media.urbit.org/docs/hoon-syntax/set-membership.png)
+
+#### content/guides/additional/sets.md
+
+![](https://media.urbit.org/docs/hoon-syntax/set-union.png)
+
+#### content/guides/additional/sets.md
+
+![](https://media.urbit.org/docs/hoon-syntax/set-intersection.png)
+
+#### content/guides/additional/sets.md
+
+![](https://media.urbit.org/docs/hoon-syntax/set-complement.png)
+
+#### content/guides/additional/sets.md
+
+![](https://media.urbit.org/docs/hoon-syntax/set-symmetric-difference.png)
